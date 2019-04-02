@@ -1,7 +1,6 @@
 <html>
   <head>
-    
-      <title>this is my first site </title>
+          <title>this is my first site </title>
       </head>
     <body>
     <div id="Headder">

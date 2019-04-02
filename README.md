@@ -5,6 +5,7 @@
       </head>
     <body>
     <div>
+      <table>
           <td width ="100" border="1">
             <tr>
               <td width="40%"> logo </td>
